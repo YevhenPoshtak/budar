@@ -25,3 +25,4 @@ int main(){
     cout << exp(x,n) << endl;
     return 0;
 }
+бородін хуєсос
